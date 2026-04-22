@@ -1,7 +1,3 @@
-include:
-  - board: nice_nano//zmk
-    shield: sofle_left
-    artifact-name: sofle_left
-  - board: nice_nano//zmk
-    shield: sofle_right
-    artifact-name: sofle_right
+manifest:
+  defaults:
+    revision: main
