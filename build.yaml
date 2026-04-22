@@ -1,7 +1,8 @@
 include:
   - board: nice_nano_v2
-    shield: solfe_v2_left
-    artifact-name: solfe_v2_left
+    shield: sofle_left
+    artifact-name: sofle_left
+
   - board: nice_nano_v2
-    shield: solfe_v2_right
-    artifact-name: solfe_v2_right
+    shield: sofle_right
+    artifact-name: sofle_right
